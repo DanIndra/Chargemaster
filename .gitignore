@@ -1,0 +1,7 @@
+/.mbed
+/BUILD
+/doxygen
+*.pyc
+/mbed-os
+/mbed-http
+
